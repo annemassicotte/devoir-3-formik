@@ -1,0 +1,13 @@
+body {
+	background-color: rgb(241, 138, 122) !important;
+}
+
+small {
+	display:block;
+}
+
+small a {
+	color: rgb(241, 138, 122) !important;
+	font-weight: bold;
+	text-decoration: none;
+}
